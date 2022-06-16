@@ -1,2 +1,2 @@
-# stateManagement
-simpler way of state management in react
+# State-Management
+Simpler way of state management in react
